@@ -1,0 +1,3 @@
+DHT.c:8:13:goToOutput	32	static
+DHT.c:26:13:goToInput	32	static
+DHT.c:40:10:DHT_getData	64	static

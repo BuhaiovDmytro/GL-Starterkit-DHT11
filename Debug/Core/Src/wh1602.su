@@ -1,0 +1,16 @@
+hw_delay.h:14:20:_delay_loops	16	static,ignoring_inline_asm
+wh1602.c:24:13:lcd_set_nibble	16	static
+wh1602.c:63:13:lcd_strobe_e	8	static
+wh1602.c:70:13:lcd_write_command_init	16	static
+wh1602.c:77:20:lcd_write	16	static
+wh1602.c:86:20:lcd_wait	8	static
+wh1602.c:91:13:lcd_write_command	16	static
+wh1602.c:98:13:lcd_write_data	16	static
+wh1602.c:105:13:lcd_gpio_init	32	static
+wh1602.c:140:6:lcd_init	8	static
+wh1602.c:169:6:lcd_print_char	16	static
+wh1602.c:174:6:lcd_print_string	16	static
+wh1602.c:182:6:lcd_move_to	24	static
+wh1602.c:219:6:lcd_print_char_at	16	static
+wh1602.c:225:6:lcd_print_string_at	16	static
+wh1602.c:231:6:lcd_clear	8	static

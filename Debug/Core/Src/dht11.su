@@ -1,0 +1,4 @@
+dht11.c:9:22:DelayMicro	16	static
+dht11.c:14:6:port_init	8	static
+dht11.c:21:9:dht11_init	8	static
+dht11.c:27:9:dht11_GetData	24	static
